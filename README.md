@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/be/47/1ebe477e-2948-b86c-ebbb-2f56fe701e31/AppIcon-0-0-85-220-0-4-0-2x.png/1200x630bb.png" width="200" alt="Tampermonkey macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Tampermonkey">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Tampermonkey">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Tampermonkey macOS page">
  </a><br><br>
  <div align="center">
